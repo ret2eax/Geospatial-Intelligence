@@ -1,4 +1,4 @@
-# ESA's Sentinel-1 Satelite S1A & S1B: Synthetic Aperture Radar (SAR) Civilian Band C (Military Band G) Multi-temporal Satelite Imagery Intereference Convergence Highlighting Patriot MIM-104 Surface to Air Missile Defense systems (Geospatial Intelligence)
+# ESA's Sentinel-1 Satellite S1A & S1B: Synthetic Aperture Radar (SAR) Civilian Band C (Military Band G) Multi-temporal Satelite Imagery Intereference Convergence Highlighting Patriot MIM-104 Surface to Air Missile Defense systems (Geospatial Intelligence)
 
 Some of these are AN/MPQ-53/65 phased array radars that form a Patriot missile battery C2. STRIL (Swedish Tactical (Fighting Command) and Air Defence Control System) interference to be included, among other variants.
 
